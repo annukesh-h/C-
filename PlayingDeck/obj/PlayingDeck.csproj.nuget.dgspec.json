@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Doc\\C#\\Hello\\Hello.csproj": {}
+    "D:\\Doc\\C#\\PlayingDeck\\PlayingDeck.csproj": {}
   },
   "projects": {
-    "d:\\Doc\\C#\\Hello\\Hello.csproj": {
+    "D:\\Doc\\C#\\PlayingDeck\\PlayingDeck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Doc\\C#\\Hello\\Hello.csproj",
-        "projectName": "Hello",
-        "projectPath": "d:\\Doc\\C#\\Hello\\Hello.csproj",
+        "projectUniqueName": "D:\\Doc\\C#\\PlayingDeck\\PlayingDeck.csproj",
+        "projectName": "PlayingDeck",
+        "projectPath": "D:\\Doc\\C#\\PlayingDeck\\PlayingDeck.csproj",
         "packagesPath": "C:\\Users\\newla\\.nuget\\packages\\",
-        "outputPath": "d:\\Doc\\C#\\Hello\\obj\\",
+        "outputPath": "D:\\Doc\\C#\\PlayingDeck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\newla\\AppData\\Roaming\\NuGet\\NuGet.Config"

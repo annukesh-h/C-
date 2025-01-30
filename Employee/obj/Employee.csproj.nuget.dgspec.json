@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Doc\\C#\\Hello\\Hello.csproj": {}
+    "D:\\Doc\\C#\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "d:\\Doc\\C#\\Hello\\Hello.csproj": {
+    "D:\\Doc\\C#\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Doc\\C#\\Hello\\Hello.csproj",
-        "projectName": "Hello",
-        "projectPath": "d:\\Doc\\C#\\Hello\\Hello.csproj",
+        "projectUniqueName": "D:\\Doc\\C#\\Employee\\Employee.csproj",
+        "projectName": "Employee",
+        "projectPath": "D:\\Doc\\C#\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\newla\\.nuget\\packages\\",
-        "outputPath": "d:\\Doc\\C#\\Hello\\obj\\",
+        "outputPath": "D:\\Doc\\C#\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\newla\\AppData\\Roaming\\NuGet\\NuGet.Config"
