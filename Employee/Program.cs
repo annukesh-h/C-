@@ -12,10 +12,11 @@ class Employee
         {
             if (value<0)
             {
-                throw new ArgumentException("Invaalid salary amount.");
+            Console.WriteLine("Invalid salary amount.");
+            return;
             }
             salary = value;
-        }
+            }
     }
     public string Position {get; private set; }
     public Employee(string employeeID, string name, double salary, string position)
@@ -29,7 +30,8 @@ class Employee
     {
         if (newSalary < 0)
         {
-            throw new ArgumentException("Invalid saklary amount.");
+            Console.WriteLine("Invalid salary amount.");
+            return;
         }
     }
 
